@@ -13,3 +13,6 @@
 เพื่อมีแรงในการทำโปรเจคนี้ต่อ
 
 ![alt text](https://media.discordapp.net/attachments/1208476925446586421/1229110455373660240/Donate_v2.jpg?ex=668b6f10&is=668a1d90&hm=a27e8fda8e21d7e12d024d778aaf666e5235f56cd24229dd105a23349eb529ef&=&format=webp&width=1920&height=918)
+
+## Credits
+Mina WGB สำหรับข้อมูลสกิล : https://docs.google.com/spreadsheets/d/1pDJaw45bDH2p5E8zrg-7N7Tzycy2N1UJ/edit?usp=drive_link&ouid=104803466123511277293&rtpof=true&sd=true
