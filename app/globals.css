@@ -1,0 +1,69 @@
+/* app/globals.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+}
+
+main {
+  text-align: center;
+  padding: 20px;
+  background: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input {
+  margin: 10px;
+  padding: 8px;
+  font-size: 16px;
+  width: 100px;
+}
+
+button {
+  padding: 8px 16px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+label {
+  display: block;
+  margin: 10px 0;
+}
+
+h2 {
+  margin-top: 20px;
+}
+
+.icon-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.icon {
+  width: 40px;
+  height: 40px;
+  margin: 5px;
+  cursor: pointer;
+  transition: transform 0.3s, border 0.3s;
+}
+
+.icon:hover {
+  transform: scale(1.1);
+  border: 2px solid #0070f3;
+}
+
+.selected {
+  border: 2px solid #0070f3;
+}
