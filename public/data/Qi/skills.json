@@ -1,0 +1,8 @@
+{
+    "skill1": {
+        "cooldown": 5
+    },
+    "skill2": {
+        "cooldown": 10
+    }
+}
